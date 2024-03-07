@@ -1,0 +1,40 @@
+F:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\appsettings.json
+F:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\שיעו1 1.exe
+F:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\שיעו1 1.deps.json
+F:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\שיעו1 1.runtimeconfig.json
+F:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\שיעו1 1.runtimeconfig.dev.json
+F:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\שיעו1 1.dll
+F:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\שיעו1 1.pdb
+F:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.csprojAssemblyReference.cache
+F:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.AssemblyInfoInputs.cache
+F:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.AssemblyInfo.cs
+F:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.csproj.CoreCompileInputs.cache
+F:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.MvcApplicationPartsAssemblyInfo.cache
+F:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.RazorTargetAssemblyInfo.cache
+F:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\staticwebassets\שיעו1 1.StaticWebAssets.Manifest.cache
+F:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\staticwebassets\שיעו1 1.StaticWebAssets.xml
+F:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.dll
+F:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.pdb
+F:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.genruntimeconfig.cache
+G:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\appsettings.json
+G:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\שיעו1 1.exe
+G:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\שיעו1 1.deps.json
+G:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\שיעו1 1.runtimeconfig.json
+G:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\שיעו1 1.runtimeconfig.dev.json
+G:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\שיעו1 1.dll
+G:\יד\זילברברג\שיעו1 1\bin\Debug\netcoreapp3.1\שיעו1 1.pdb
+G:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.csprojAssemblyReference.cache
+G:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.AssemblyInfoInputs.cache
+G:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.AssemblyInfo.cs
+G:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.csproj.CoreCompileInputs.cache
+G:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.MvcApplicationPartsAssemblyInfo.cache
+G:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.RazorTargetAssemblyInfo.cache
+G:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\staticwebassets\שיעו1 1.StaticWebAssets.Manifest.cache
+G:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\staticwebassets\שיעו1 1.StaticWebAssets.xml
+G:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.dll
+G:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.pdb
+G:\יד\זילברברג\שיעו1 1\obj\Debug\netcoreapp3.1\שיעו1 1.genruntimeconfig.cache
